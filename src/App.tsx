@@ -1,7 +1,11 @@
-import './App.css'
+import Register from './pages/Register'
 
 function App() {
-	return <div className='App'>Holiiss</div>
+	return (
+		<main>
+			<Register />
+		</main>
+	)
 }
 
 export default App
