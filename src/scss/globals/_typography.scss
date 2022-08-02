@@ -1,3 +1,6 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
 p,
 h1,
 h2,
@@ -5,14 +8,13 @@ h3,
 h4,
 h5,
 h6 {
-	overflow-wrap: break-word;
 	margin-top: 0;
 }
 h1,
 h2,
 h3 {
 	font-weight: 700;
-	line-height: 1.1;
+	line-height: 1.5;
 }
 h1 {
 	font-size: 3rem;
